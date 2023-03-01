@@ -4,3 +4,6 @@
 [submodule "push-swap"]
 	path = push-swap
 	url = git@github.com:Juan-aga/push-swap.git
+[submodule "other_resources"]
+	path = other_resources
+	url = git@github.com:Juan-aga/other_resources.git
