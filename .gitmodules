@@ -7,3 +7,6 @@
 [submodule "other_resources"]
 	path = other_resources
 	url = git@github.com:Juan-aga/other_resources.git
+[submodule "Philosophers"]
+	path = Philosophers
+	url = git@github.com:Juan-aga/Philosophers.git
