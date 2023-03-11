@@ -10,3 +10,6 @@
 [submodule "Philosophers"]
 	path = Philosophers
 	url = git@github.com:Juan-aga/Philosophers.git
+[submodule "fractol"]
+	path = fractol
+	url = git@github.com:Juan-aga/fractol.git
