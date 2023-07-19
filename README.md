@@ -69,7 +69,7 @@ To clone this repository and get all the project submodules, run the following c
 
 
 ```
-git clone --recurse-submodules <URL del repositorio>
+git clone --recurse-submodules https://github.com/Juan-aga/42-Cursus
 ```
 This will clone the main repository along with all the project submodules.
 
