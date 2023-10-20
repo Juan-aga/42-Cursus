@@ -19,3 +19,6 @@
 [submodule "miniRT"]
 	path = miniRT
 	url = git@github.com:emartinez-dev/miniRT.git
+[submodule "CPP-Modules"]
+	path = CPP-Modules
+	url = https://github.com/Juan-aga/CPP-Modules
