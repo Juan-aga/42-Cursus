@@ -68,6 +68,7 @@ This a project that involves creating a simple shell in C. The shell displays a 
 The goal of this program is to generate images using the Raytracing protocol. Those computer-generated images will each represent a scene, as seen from a specific angle and position, defined by simple geometric objects, and each with its own lighting system.
 
 ### [CPP Modules](https://github.com/Juan-aga/CPP-Modules)
+This repository contains a collection of C++ projects and exercises related to learning C++ at 42 School. These projects are part of the C++ programming modules and are designed to enhance programming skills and understanding of the C++ language.
 
 ## Cloning Instructions
 
