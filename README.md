@@ -9,6 +9,7 @@ Welcome to the 42 Course Repository! In this repository, you will find a collect
 
 42 is a globally recognized programming school that promotes a practical and collaborative approach to learning programming. The 42 training program is based on peer learning and working on practical projects.
 
+<!--
 ## Grades
 |Project|Grade|
 |-------|-----|
@@ -31,7 +32,7 @@ Welcome to the 42 Course Repository! In this repository, you will find a collect
 |CPP Module 02||
 |CPP Module 03||
 |CPP Module 04||
-
+-->
 ## Projects
 
 This repository contains the following 42 course projects:
