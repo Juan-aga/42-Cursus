@@ -22,3 +22,6 @@
 [submodule "CPP-Modules"]
 	path = CPP-Modules
 	url = https://github.com/Juan-aga/CPP-Modules
+[submodule "ft_irc"]
+	path = ft_irc
+	url = https://github.com/Juan-aga/ft_irc.git
